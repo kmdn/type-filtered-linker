@@ -1,0 +1,8 @@
+flask
+numpy
+pynif
+sklearn
+tensorflow
+tqdm
+transformers
+spacy
